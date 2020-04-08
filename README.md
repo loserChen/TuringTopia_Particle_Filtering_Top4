@@ -5,3 +5,5 @@
 承办方：图灵联邦
 
 比赛链接：[高能宇宙线背景噪声过滤挑战赛](https://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch)
+
+模型：Lightgbm单模
